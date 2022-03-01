@@ -4,40 +4,39 @@ description: Without SSL should work out of the box!
 ---
 
 ---
-Hosted By @ [NotSaksh](https://notsaksh.me/)
+Hosted By @ [Darren](https://losingtime.dpaste.org/)
 ```bash
-Host : node1.lavalinks.xyz
-Port : 443
-Password : "NotSaksh"
+Host : losingtime.dpaste.org
+Port : 2124
+Password : "SleepingOnTrains"
 secure: false
 ```
-Hosted By @ [NotSaksh](https://notsaksh.me/)
+Hosted By @ [Your Name](https://support.something.host/en/article/lavalink-hosting-okm26z/)
 ```bash
-Host : node2.lavalinks.xyz
-Port : 443
-Password : "NotSaksh"
+Host : lava.link
+Port : 80
+Password : anything as password
+secure: false
+```
+Hosted By @ [Islantay](https://github.com/Dep0s1t)
+```bash
+Host : lavalink.islantay.tk
+Port : 8880
+Password : "waifufufufu"
 secure: false
 ```
 
-Hosted By @ [NotSaksh](https://notsaksh.me/)
+Hosted By @ [ErrorDoc404](https://github.com/ErrorDoc404)
 ```bash
-Host : node3.lavalinks.xyz
-Port : 443
-Password : "NotSaksh"
+Host : kartadharta.xyz
+Port : 3000
+Password : "kdlavalink"
 secure: false
 ```
-
-Hosted By @ [NotSaksh](https://notsaksh.me/)
+Hosted By @ [FireBall](https://github.com/ErrorDoc404)
 ```bash
-Host : node4.lavalinks.xyz
-Port : 443
-Password : "NotSaksh"
-secure: false
-```
-Hosted By @ [NotSaksh](https://notsaksh.me/)
-```bash
-Host : node5.lavalinks.xyz
-Port : 443
-Password : "NotSaksh"
+Host : node03.lavalink.eu
+Port : 2333
+Password : "Raccoon"
 secure: false
 ```
