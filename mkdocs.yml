@@ -1,0 +1,62 @@
+site_name: lavalink hosting
+site_author: DarrenOfficial
+site_url: https://lavalink.darrennathanael.com
+site_description: List of free lavalink servers! If you have lavalink that you can share feel free to make a pull request! A standalone audio sending node based on Lavaplayer and JDA-Audio. Allows for sending audio without it ever reaching any of your shards.
+repo_name: 'lavalink list'
+repo_url: 'https://github.com/DarrenOfficial/lavalink-list'
+edit_uri: 'https://github.com/DarrenOfficial/lavalink-list/edit/main/docs'
+
+
+theme: 
+  name: 'material'
+  logo: 'https://cdn.darrennathanael.com/assets/java/springboot.svg'
+  include_search_page: false
+  search_index_only: true
+  palette:
+    scheme: slate
+    primary: 'indigo'
+    accent: 'green'
+  font:
+    text: 'Poppins'
+    code: 'Source Code Pro'
+  favicon:
+    'https://cdn.darrennathanael.com/assets/lavalinklist/favicon.ico'
+  features:
+    - tabs
+    - instantsite
+    - navigation.tracking
+    - navigation.expand
+    - header.autohide
+    - content.code.annotate
+    - navigation.indexes
+    - navigation.instant
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+markdown_extensions:
+  - meta
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.keys
+  - attr_list
+  - pymdownx.betterem:
+      smart_enable: all
+nav:
+  - Home: index.md
+  - Lavalink with ssl: SSL/lavalink-with-ssl.md
+  - Lavalink without ssl: NoSSL/lavalink-without-ssl.md
+  - FAQs: FAQ/frequently-asked-questions.md
+  - API: api/index.md
+extra:
+  social:
+    - icon: 'fontawesome/brands/twitter'
+      link: 'https://twitter.com/darrenuselinux'
+    - icon: 'fontawesome/brands/github-alt'
+      link: 'https://github.com/darrenofficial' 
+    - icon: 'fontawesome/brands/discord'
+      link: 'https://discord.darrennathanael.com'
+  generator: false
+copyright: 'Copyright &copy; 2020 - 2022 Darren Nathanael'
