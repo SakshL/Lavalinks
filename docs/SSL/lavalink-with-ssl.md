@@ -41,3 +41,19 @@ Port : 443
 "secure": true,
 Password : "NotSaksh"
 ```
+Hosted By @ [MR EXTINCT CODE'S)
+```bash
+Id : "Main"
+Host : www.lavalinknodepublic.ml
+Port : 443
+"secure": true,
+Password : "mrextinctcodes"
+```
+Hosted By @ [MR EXTINCT CODE'S)
+```bash
+Id : "Main"
+Host : www.lavalinknodepublic2.ml
+Port : 443
+"secure": true,
+Password : "mrextinctcodes"
+```
