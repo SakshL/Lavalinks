@@ -41,7 +41,7 @@ Port : 443
 "secure": true,
 Password : "NotSaksh"
 ```
-Hosted By @ [MR EXTINCT CODE'S)
+Hosted By @ [MR EXTINCT CODE'S](https://discord.gg/notsaksh)
 ```bash
 Id : "Main"
 Host : www.lavalinknodepublic.ml
