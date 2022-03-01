@@ -12,7 +12,7 @@ Password : "www.freelavalink.ga"
 Secure : true
 ```
 
-Hosted by [Cobalt](https://github.com/cobaltgit)
+Hosted by [NotSaksh](https://github.com/cobaltgit)
 ```bash
 Host: lavalink.cobaltonline.net
 Port: 443
