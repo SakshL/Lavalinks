@@ -10,7 +10,7 @@
     <br />
     <a href="https://lavalinks.xyz"><strong>Open Website »</strong></a>
     
-    <a><storng>Note: We did not create/code this repl, go to the actual repl <a href="https://github.com/DarrenOfficial/lavalink-list/">here</a></strong></a>
+    <a><strong>Note: We did not create/code this repl, go to the actual repl <a href="https://github.com/DarrenOfficial/lavalink-list/">here</a></strong></a>
     <br />
     <br />
     <a href="https://github.com/NotSaksh/Lavalinks.xyz/pulls">Create PR</a>
