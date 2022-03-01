@@ -1,39 +1,39 @@
 ---
-title: Frequently asked Question
-description: FAQ about lavalink and this site!
+title: Frequently Asked Question
+description: FAQ About Lavalink And This Site!
 ---
 
-# Frequently asked Question
+# Frequently Asked Question
 
 
-### What do I put in ID / Identifier
+### What Do I Put In ID / Identifier
 
-Put it as anything, it doesn't matter as long as it's one sentence and there's no `'`
+Put It As Anything, It Doesn't Matter As Long As It's One Sentence And There's No `'`
 
 ### What if one or more of these servers are down?
 
-Well you can simply contact the owner of it, or if the server has been down for 7 days you can make a Pull Request removing the server completely
+Well You Can Simply Contact The Owner Of It, Or If The Server Has Been Down For 7 Days You Can Make a Pull Request Removing The Server Completely
 
-### What is the difference between `NoSSL` and `SSL`
-SSL Uses Secure WS connection, whilst No SSL uses standard WS.
-Tho, if you want to use the SSL lavalink you need to make sure your bot uses that protocol.
+### What Is The Difference Between `NoSSL` and `SSL`
+SSL Uses Secure WS Connection, Whilst No SSL Uses Standard WS.
+Tho, If You Want To Use The SSL Lavalink You Need To Make Sure Your Bot Uses That Protocol.
 
-### Why Spring boot logo?
+### Why Spring Boot Logo?
 
-Because lavalink is made using springboot.
+Because Lavalink Is Made Using Springboot.
 
-### How can I share my server?
+### How Can I Share My LavaLink Server?
 
-Just open a pull request and I will merge it!
+Just Open A Pull Request And I Will Merge It!
 
-### Where is this site hosted?
+### Where Is The Site Hosted?
 
-The site is hosted @ [Cloudflare pages](https://pages.dev)
+This Site Is Hosted @ [Cloudflare Pages](https://pages.dev)
 
 
 ### I want to help redesign the site, how and what software do I use?
 
-Well you can design the site with [mkdocs](https://squidfunk.github.io/mkdocs-material/) and make a pull request, if it's good I will merge it!
+Well You Can Design The site With [MkDocs](https://squidfunk.github.io/mkdocs-material/) And Make A Pull Request, If It's Good I Will Merge It!
 
 
 

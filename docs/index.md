@@ -1,21 +1,21 @@
 <div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
+  <a href="https://github.com/NotSaksh/Lavalinks.xyz">
     <img src="https://www.darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
   </a>
 
-<h3 align="center">lavalink list</h3>
+<h3 align="center">Lavalink List</h3>
 
   <p align="center">
-    A list of free and available public lavalink. Feel free to make a pull request!
+    A List Of Free And Available Public Lavalink. Feel Free To Make A Pull Request!
     <br />
     <br />
-    <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
+    <a href="https://github.com/NotSaksh/Lavalinks.xyz/pulls">Create PR</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    <a href="https://github.com/NotSaksh/Lavalinks.xyz/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    <a href="https://discord.gg/notsaksh">Request Feature</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">Contributors</a>
+    <a href="https://github.com/NotSaksh/Lavalinks.xyz/graphs/contributors">Contributors</a>
   </p>
 </div>
 
@@ -24,7 +24,7 @@
 ---
 
 [📃 Lavalink SSL](SSL/lavalink-with-ssl.md){ .md-button } 
-[📜 Lavalink without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
+[📜 Lavalink Without SSL](NoSSL/lavalink-without-ssl.md){ .md-button } 
 [FAQs](FAQ/frequently-asked-questions.md){ .md-button }
 
 [API](api/index.md){ .md-button }
@@ -44,7 +44,7 @@ For Repl.it: [github.com/DarrenOfficial/lavalink-replit](https://github.com/Darr
 ---
 ### TunnelBroker / Ratelimit Guide
 
-For default "networks" [darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/](https://darrennathanael.com/post/tunnelbroker-lavalink-ifup-ifdown/)
+For Default "Networks" [https://discord.gg/notsaksh](https://discord.gg/notsaksh)
 
-For Netplan [darrennathanael.com/post/tunnelbroker-lavalink-netplan/](https://darrennathanael.com/post/tunnelbroker-lavalink-netplan/)
+For Netplan [https://discord.gg/notsaksh](https://notsakshy.com)
 

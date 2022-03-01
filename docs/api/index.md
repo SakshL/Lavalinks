@@ -1,6 +1,6 @@
 ---
 title: API
-description: Get the list of lavalink servers.
+description: Get The List Of Lavalink Servers.
 ---
 
-Lavalink list provides a simple API endpoint to get all lavalink. All you need to do is a simple **GET** request to the API endpoint. /api/servers.json
+Lavalink List Provides a Simple API Endpoint To Get All Lavalink. All You Need To Do Is A Simple **GET** Request To The API Endpoint. /api/servers.json
