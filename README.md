@@ -15,11 +15,8 @@
     ·
     <a href="https://github.com/NotSaksh/Lavalinks.xyz/issues">Report Bug</a>
     ·
+    <a href="https://discord.gg/notsaksh">Discord Server</a>
+    ·
     <a href="https://github.com/NotSaksh/Lavalinks.xyz/issues">Request Feature</a>
   </p>
 </div>
-
-## Dear All Lavalink Hosting Owner.
-If You Can Join Our [Discord Server](https://discord.gg/notsaksh)
-So That If Your Lavalink Goes Down I or Someone Else Can Contact You Easily. Thanks And Have a Nice day!
-
