@@ -37,14 +37,14 @@ SSL one needed `”secure”` to be set to true at client side, whilst the one w
 
 ## Hosting guide:
 
-For MacOS, Windows, or Linux: [darrennathanael.com/post/how-to-lavalink/](https://darrennathanael.com/post/how-to-lavalink/)
+For MacOS, Windows, or Linux: [Click Here](https://darrennathanael.com/post/how-to-lavalink/)
 
-For Repl.it: [github.com/DarrenOfficial/lavalink-replit](https://github.com/DarrenOfficial/lavalink-replit)
+For Repl.it: [Click Here](https://discord.gg/notsaksh)
 
 ---
 ### TunnelBroker / Ratelimit Guide
 
-For Default "Networks" [https://discord.gg/notsaksh](https://discord.gg/notsaksh)
+For Default "Networks" [Join Our Discord Server](https://discord.gg/notsaksh)
 
-For Netplan [https://discord.gg/notsaksh](https://notsakshy.com)
+For Netplan [Join Our Discord Server](https://notsakshy.com)
 
