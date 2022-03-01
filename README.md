@@ -1,37 +1,25 @@
 <div align="center">
-  <a href="https://github.com/DarrenOfficial/lavalink-list">
+  <a href="https://github.com/NotSaksh/Lavalinks.xyz/">
     <img src="https://darrennathanael.com/cdn/springtext.svg" alt="Logo" width="350" height="80">
   </a>
 
 <h3 align="center">Lavalink List</h3>
 
   <p align="center">
-    A listing site for lavalink. Feel free to make a pull request. :)
+    A Listing Site For Lavalink. Feel Free To Make a Pull Request. :)
     <br />
-    <a href="https://lavalink-list.darrennathanael.com"><strong>Open Website »</strong></a>
+    <a href="https://lavalinks.xyz"><strong>Open Website »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/DarrenOfficial/lavalink-list/pulls">Create PR</a>
+    <a href="https://github.com/NotSaksh/Lavalinks.xyz/pulls">Create PR</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Report Bug</a>
+    <a href="https://github.com/NotSaksh/Lavalinks.xyz/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DarrenOfficial/lavalink-list/issues">Request Feature</a>
+    <a href="https://github.com/NotSaksh/Lavalinks.xyz/issues">Request Feature</a>
   </p>
 </div>
 
+## Dear All Lavalink Hosting Owner.
+If You Can Join Our [Discord Server](https://discord.gg/notsaksh)
+So That If Your Lavalink Goes Down I or Someone Else Can Contact You Easily. Thanks And Have a Nice day!
 
-### Why spring logo?
-
-Because lavalink is based off spring.
-
-<a href="https://github.com/DarrenOfficial/lavalink-list/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=DarrenOfficial/lavalink-list" />
-</a>
-
-
-
-## Dear all lavalink hosting owner.
-If you can please join this [discord server](https://discord.darrennathanael.com) so that If your lavalink goes down I or someone else can contact you easily. Thanks and have a nice day!
-
-
-### If you find this useful give it a star ⭐️
