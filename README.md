@@ -18,5 +18,7 @@
     <a href="https://discord.gg/notsaksh">Discord Server</a>
     ·
     <a href="https://github.com/NotSaksh/Lavalinks.xyz/issues">Request Feature</a>
+     ·
+    <a href="https://github.com/DarrenOfficial/lavalink-list/">Orginal Repo</a>
   </p>
 </div>
