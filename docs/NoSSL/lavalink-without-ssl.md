@@ -9,7 +9,6 @@ Hosted By @ [NotSaksh](https://notsaksh.me/)
 Host : node1.lavalinks.xyz
 Port : 443
 Password : "NotSaksh"
-"secure": true,
 secure: false
 ```
 Hosted By @ [NotSaksh](https://notsaksh.me/)
@@ -17,7 +16,6 @@ Hosted By @ [NotSaksh](https://notsaksh.me/)
 Host : node2.lavalinks.xyz
 Port : 443
 Password : "NotSaksh"
-"secure": true,
 secure: false
 ```
 
@@ -26,7 +24,6 @@ Hosted By @ [NotSaksh](https://notsaksh.me/)
 Host : node3.lavalinks.xyz
 Port : 443
 Password : "NotSaksh"
-"secure": true,
 secure: false
 ```
 
@@ -35,7 +32,6 @@ Hosted By @ [NotSaksh](https://notsaksh.me/)
 Host : node4.lavalinks.xyz
 Port : 443
 Password : "NotSaksh"
-"secure": true,
 secure: false
 ```
 Hosted By @ [NotSaksh](https://notsaksh.me/)
@@ -43,6 +39,5 @@ Hosted By @ [NotSaksh](https://notsaksh.me/)
 Host : node5.lavalinks.xyz
 Port : 443
 Password : "NotSaksh"
-"secure": true,
 secure: false
 ```
